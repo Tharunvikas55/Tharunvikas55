@@ -37,6 +37,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
+
+
 ### :hammer_and_wrench: Languages , Tools and Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,php,mysql,java,eclipse,c,git,docker&perline=6)](https://skillicons.dev)
   
