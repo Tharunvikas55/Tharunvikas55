@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
  # Hi, I'm Tharun Vikas SS! 👋
  
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
 <div>
  <h2>🚀 About Me</h2>
 </div>
