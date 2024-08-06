@@ -36,14 +36,20 @@ Here are some ideas to get you started:
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunvikas55&layout=compact&theme=vision-friendly-dark)](https://github.com/Tharunvikas55/github-readme-stats)
 
- <table align="center" width="100%" height="100%" >
+<table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharunvikas55&theme=github_dark" alt="Tharun's's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunvikas55&theme=merko" alt="Zane's Contribution Streak"/></td>
+    </tr>
+ </table>
+<!--  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
     </tr>
- </table>
+ </table> -->
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
