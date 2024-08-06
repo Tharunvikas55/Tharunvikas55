@@ -32,8 +32,7 @@ Here are some ideas to get you started:
  # Hi, I'm Tharun Vikas SS! 👋
 
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+ 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 
@@ -68,8 +67,6 @@ Here are some ideas to get you started:
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunvikas55&layout=compact&theme=vision-friendly-dark)](https://github.com/Tharunvikas55/github-readme-stats)
 
-
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Tharunvikas55&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
