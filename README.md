@@ -26,10 +26,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
-
+<div align="center>
 <img src="https://komarev.com/ghpvc/?username=Tharunvikas55&style=flat-square&color=blue" alt=""/></div>
 
- # Hi, I'm <Tharun Vikas SS>! 👋
+ # Hi, I'm Tharun Vikas SS! 👋
 
 driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
