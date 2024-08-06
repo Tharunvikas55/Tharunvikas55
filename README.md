@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
-
 
 ### :woman_technologist: About Me :
 
@@ -52,5 +50,7 @@ Here are some ideas to get you started:
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+### :hammer_and_wrench: Languages and Tools :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tharunvikas55)](https://git.io/streak-stats)
