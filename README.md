@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharunvikas55&theme=github_dark" alt="Tharun's's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunvikas55&theme=merko" alt="Zane's Contribution Streak"/></td>
+<!--        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunvikas55&theme=merko" alt="Zane's Contribution Streak"/></td> -->
     </tr>
  </table>
 <!--  <table align="center" width="100%" height="100%" >
