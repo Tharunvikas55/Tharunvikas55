@@ -70,7 +70,7 @@ driven by a curiosity for technology and a love for writing. My journey involves
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunvikas55&layout=compact&theme=vision-friendly-dark)](https://github.com/Tharunvikas55/github-readme-stats)
 
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<Tharunvikas55>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Tharunvikas55&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
