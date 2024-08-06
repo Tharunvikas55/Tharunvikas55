@@ -17,14 +17,21 @@ Here are some ideas to get you started:
  
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
-## 🚀 About Me
-- :telescope: I’m entry-level candidate, contributing to frontend and backend for building web applications.
+<div align="center">
+    <h2>🚀 About Me</h2>
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
+    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud 
+     platforms and containerization to CRM systems and 3D modeling.</p>
+ - :telescope: I’m entry-level candidate, contributing to frontend and backend for building web applications.
   
 - :seedling: Exploring Technical Content Writing.
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tharunvikas55-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tharunvikas55/)
 
 - 📫 Also reach me in :ssstharunvikas@gmail.com
+</div>
+
+
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
