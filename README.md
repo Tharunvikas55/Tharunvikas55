@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://giphy.com/embed/smGCEo5zsAXtK4bqAT" width="100" ></img><p><a href="https://giphy.com/stickers/working-programing-programar-smGCEo5zsAXtK4bqAT">via GIPHY</a></p>
+  
 </div>
 
 <div id="badges"  align="center">
