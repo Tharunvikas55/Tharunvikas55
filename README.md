@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,php,java)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,sql,php,java,c)](https://skillicons.dev)
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
