@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
  # Hi, I'm Tharun Vikas SS! 👋
 
-driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
