@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 
-<img src="https://komarev.com/ghpvc/?username=your-github-Tharunvikas55&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Tharunvikas55&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tharunvikas55)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Tharunvikas55)](https://github.com/Tharunvikas55/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunvikas55)](https://github.com/Tharunvikas55/github-readme-stats)
 
 
