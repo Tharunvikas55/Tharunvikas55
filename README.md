@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-- 📫 How to reach me:ssstharunvikas@gmail.com
 <!--
 **Tharunvikas55/Tharunvikas55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,6 +50,7 @@ Here are some ideas to get you started:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tharunvikas55-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tharunvikas55/)
 
+- 📫 Also reach me in :ssstharunvikas@gmail.com
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -63,7 +63,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tharunvikas55)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunvikas55&layout=compact)
+</div>
 
