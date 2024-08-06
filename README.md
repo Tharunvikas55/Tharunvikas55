@@ -58,9 +58,8 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tharunvikas55)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tharunvikas55&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunvikas55)](https://github.com/Tharunvikas55/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunvikas55&layout=compact&theme=vision-friendly-dark)](https://github.com/Tharunvikas55/github-readme-stats)
 
 
