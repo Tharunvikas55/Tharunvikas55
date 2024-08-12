@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 ### :hammer_and_wrench: Languages , Tools and Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,express,mongodb,php,mysql,java,eclipse,c,git,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,express,ejs,mongodb,php,mysql,java,eclipse,c,git,docker&perline=6)](https://skillicons.dev)
   
 
 ### :fire: My Stats :
