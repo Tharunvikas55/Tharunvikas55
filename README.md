@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - :seedling: Exploring Technical Content.
   
 - 🔭 I’m currently working on GMS
+
+- 🌱 I’m currently learning Next.js
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tharunvikas55-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tharunvikas55/)
 
