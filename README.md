@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
 
  - :telescope: I’m entry-level candidate, contributing to frontend and backend for building web applications.
-  
-- 🔭 I’m currently working on GMS
 
 - 🌱 I’m currently learning Next.js
   
