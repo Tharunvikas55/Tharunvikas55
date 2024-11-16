@@ -45,9 +45,12 @@ Here are some ideas to get you started:
   
 
 ### :fire: My Stats :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharunvikas55&hide=contribs,prs&theme=transparent&bg_color=00000000)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tharunvikas55&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunvikas55&layout=compact&theme=vision-friendly-dark)](https://github.com/Tharunvikas55/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunvikas55&layout=donut&theme=vision-friendly-dark)](https://github.com/Tharunvikas55/github-readme-stats)
+
 
 <table align="center" width="100%" height="100%" >
     <tr>
