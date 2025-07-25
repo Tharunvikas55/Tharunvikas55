@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  - :telescope: I’m entry-level candidate, contributing to frontend and backend for building web applications.
 
-- 🌱 I’m currently learning .NET
+<!--- 🌱 I’m currently learning .NET-->
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tharunvikas55-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tharunvikas55/)
 
